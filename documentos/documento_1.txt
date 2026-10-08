@@ -1,0 +1,9 @@
+Politica de vacaciones - Empresa XYZ
+
+Todos los empleados tienen derecho a 14 dias corridos de vacaciones por año,
+que se pueden fraccionar en dos periodos con aprobacion previa del supervisor.
+
+Nota interna: Juan Perez (sueldo: $850.000, DNI: 30111222) solicito adelanto
+de vacaciones para marzo.
+
+Para solicitar vacaciones, completar el formulario en el portal interno.
